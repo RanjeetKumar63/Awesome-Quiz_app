@@ -33,3 +33,15 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+
+.time{
+  border-radius:5px;
+  text-align: center;
+  width: 8rem;
+  height: 2rem;
+  background-color: rgba(105, 119, 161, 0.89);
+  color: black;
+
+  
+}
